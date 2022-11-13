@@ -1,7 +1,7 @@
 # Futurex-Console-web-site
 DAyz Console admin site
 
-Thanks to CF tools that did push me to build my mod and site 
+Thanks to cF*****k t00ls that did push me to build my mod and site 
 I will get it done 
 You can control your server from the web site 
 i will ADD MySQL missions Unstuck players Auto admin vote systems 
