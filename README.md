@@ -13,7 +13,9 @@ Most of the admin Vpp commands will be from the site include your type’s files
 maps i have , deerisle ,chernaru ,enoch(livonia), namalsk
 i need more maps IMG file send it to me in discord please 
 
-https://discord.gg/hbSDeTR7w5 
+![Discord link 
+][(Click ME Join US)](https://discord.gg/hbSDeTR7w5)
+
 ![Screen shot 
 1](https://cdn.discordapp.com/attachments/975140347208401047/1042830511522988032/2022-09-02_17-54-08.png)
 ![Screen shot 2
